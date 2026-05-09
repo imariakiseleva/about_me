@@ -8,4 +8,4 @@ I enjoy discovering new technologies and improving my coding skills step by step
 
 I also love traveling and dogs 🐶✈️
 
-![photo my dog](photo.jpeg)
+![photo my dog](photo.jpg)
